@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo José Martínez</h1>
 <h3 align="center">Soy un Back-end en proceso de formación con mucha pasión y ganas de aprender</h3>
 
-- 💬 Ask me about **HTML, JavaScript, CSS, Python, MySQL, SQL, Diagrama EER, AWS RDS, CLOUD, Vtex**
+- 💬 Ask me about **HTML, JavaScript, CSS, Python, MySQL, SQL, Diagrama EER, AWS RDS, CLOUD,**
 
 - 📫 How to reach me **josehmartinez92@gmailcom**
 
